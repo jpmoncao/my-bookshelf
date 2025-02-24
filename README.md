@@ -8,6 +8,7 @@
 
 <p align="center">Nesse projeto desenvolvi um projeto simples para me introduzir ao Vue.js</p>
 <p align="center">Consiste em uma estante de livros para avaliações</p>
+<p align="center"><a align="center" href="https://jpmoncao-bookshelf.vercel.app/" target="_blank">Visite o site</a><p>
 
 ###
 
